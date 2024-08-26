@@ -1,0 +1,5 @@
+git clone git@github.com:SchlossLab/Schloss_rrnAnalysis_mSphere_2020.git
+cd Schloss_rrnAnalysis_XXXX_2020
+git reset --hard 63c560670c128fade5eeef717c8c8a9e8ff081e2
+git remote set-url origin git@github.com:ppricoco/Schloss_rrnAnalysis_XXXX_2020.git
+git push -u origin master
